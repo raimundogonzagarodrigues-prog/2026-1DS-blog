@@ -1,5 +1,19 @@
-root::{
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+:root{
 --berry-lipstick : #d60270ff;
 --grape-soda : #9b4f96ff;
 --egyptian-blue : #0038a8ff;
+--titulo: "Archivo Black", sans-serif;
+--texto: "Jost", sans-serif;
+
+}
+body{
+    background: var(--cinza-verde);
+    font-family: var(--texto);
+
+}
+h1{
+    font-family: var(--titulo);
 }
