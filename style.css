@@ -12,8 +12,7 @@
 body{
     background: var(--cinza-verde);
     font-family: var(--texto);
-
 }
-h1{
-    font-family: var(--titulo);
+header{
+    background-color: var(--cinza-verde);
 }
