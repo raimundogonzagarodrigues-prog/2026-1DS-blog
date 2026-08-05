@@ -1,18 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montenegrin+Gothic+One&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
---berry-lipstick : #d60270ff;
---grape-soda : #9b4f96ff;
---egyptian-blue : #0038a8ff;
---titulo: "Archivo Black", sans-serif;
---texto: "Jost", sans-serif;
-
+    --roxo: rgb(95, 2, 99);
+    --cinza-verde: rgb(71, 109, 73);
+    --rosa: rgb(235, 0, 172);
+    --branco: #f4f3eeff; 
+    --titulo: ";
+    --texto:  "Raleway", sans-serif;
 }
 body{
     background: var(--cinza-verde);
     font-family: var(--texto);
 }
 header{
-    background-color: var(--cinza-verde);
+    background-color: var(--cinza-chumbo);
+    display: flex;
+    justify-content: space-around;
+    color: var(--prata  );
 }
