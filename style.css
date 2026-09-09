@@ -41,7 +41,17 @@ header{
     padding: 30px;
     text-align: center;
 }
-.conteudo-titulo{
- font - font-family: 
-
+.conteudo-titulo {
+font-family:var(--prata);
 }
+
+footer{
+background-color: var(--cinza-chumbo);
+color: var(--prata);
+font-family: var(--titulo);
+font-size: 20px;
+padding: 20px;
+text-align: center;
+}
+
+
