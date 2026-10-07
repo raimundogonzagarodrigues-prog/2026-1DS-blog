@@ -7,7 +7,7 @@
 
 :root{
     --cinza-chumbo: rgb(100, 4, 4);
-    --cinza-verde: rgb(220, 243, 9);
+    --cinza-verde: rgba(161, 73, 0, 0.801);
     --prata: #bcb8b1ff;
     --branco: #f4f3eeff; 
     --titulo: "Montenegrin Gothic One", serif;
